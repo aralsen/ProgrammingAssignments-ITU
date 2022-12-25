@@ -1,0 +1,2 @@
+youtube.com 192.168.18.1
+bbf.itu.edu.tr 10.0.0.2

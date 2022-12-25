@@ -1,0 +1,2 @@
+python.org 192.168.2.1
+ninova.itu.edu.tr 192.168.10.2
